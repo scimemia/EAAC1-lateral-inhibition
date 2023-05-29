@@ -1,1 +1,1 @@
-# EAAC1-lateral-inhibition
+This is the Igor code used for data analysis in this manuscript
